@@ -1,5 +1,5 @@
 This project is based on a predefined markup and styling. 
-It is a simple example that demonstrates
+It is a simple example that demonstrates <br>
 embedding <video> and <audio> elements in a webpage.
 
 The fisrt two tabs, 'Video' and 'Music', 
